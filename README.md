@@ -10,6 +10,7 @@ Forms).
 **Виконала:** Серветнік Лілія, 4 СОМ
 
 **Варіант:** 13
+
 <img width="682" height="272" alt="image" src="https://github.com/user-attachments/assets/f93927ed-931f-4cc1-bac8-d8f0b43ddfc4" />
 <img width="635" height="57" alt="image" src="https://github.com/user-attachments/assets/a7167212-6a5e-4d2e-bf24-8f61bb287f89" />
 
@@ -131,6 +132,7 @@ private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e
 <img width="450" height="412" alt="image" src="https://github.com/user-attachments/assets/bcecee53-8096-4fe2-ae96-a9e2f2f3085a" />
 
 *Результат виконання*
+
 <img width="1288" height="787" alt="Знімок екрана 2026-11-19 091554" src="https://github.com/user-attachments/assets/2de58b24-7014-4161-9027-84ee68036c7a" />
 ---
 
